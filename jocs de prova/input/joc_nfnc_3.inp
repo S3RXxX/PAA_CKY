@@ -1,0 +1,9 @@
+0
+S -> SS | a | b | e
+
+ababaababababba
+abbaba
+ababbac
+babab
+
+e

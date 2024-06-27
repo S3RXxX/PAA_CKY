@@ -1,0 +1,17 @@
+0
+S0 -> AB | CD | CB | SS
+S -> AB | CD | CB | SS
+A -> BC | a
+B -> SC | b
+C -> DD | b
+D -> BA
+
+
+ab
+aabac
+
+aaba
+abba
+aabb
+abab
+bbab

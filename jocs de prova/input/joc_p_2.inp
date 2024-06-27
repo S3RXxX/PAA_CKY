@@ -1,0 +1,14 @@
+1
+S0 -> AB 0.2 | CD 0.2 | CB 0.3 | SS 0.3
+S -> AB 0.3 | CD 0.2 | CB 0.2 | SS 0.3
+A -> BC 0.4 | a 0.6
+B -> SC 0.3 | b 0.7
+C -> DD 0.5 | b 0.5
+D -> BA 1
+
+ab
+aaba
+abba
+aabb
+abab
+bbab

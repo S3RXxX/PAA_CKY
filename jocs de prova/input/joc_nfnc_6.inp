@@ -1,0 +1,13 @@
+0
+S -> ASB | e
+A -> aASA | a | e
+B -> SbS | A | bb
+
+aaabbb
+aaabb
+aabb
+aabba
+aaasaabbb
+abb
+abbba
+aabbzbba

@@ -1,0 +1,14 @@
+0
+S -> aSb | J | T
+T -> aTbb | e
+J -> aJ | e
+
+aab
+
+a
+b
+ab
+aaabb
+aaaabb
+aaaaaaaaaaaaaaaaaaaaaab
+baa

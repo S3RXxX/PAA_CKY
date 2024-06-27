@@ -1,0 +1,16 @@
+0
+S -> E
+E -> EmT | T
+T -> TpF | F
+F -> lEr | a | b | c | d | k | f | g | h | i | j
+
+imkph
+bplkmgr
+ipgmhr
+cmpb
+bmcd
+lbmcpd
+bmcmdmk
+bpcpdpk
+bm
+r

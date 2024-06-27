@@ -1,0 +1,8 @@
+0
+S -> aBBB | bAAA
+A -> a | As | bBB
+B -> b | bS | Aaa
+
+baaa
+abbb
+aaaaaaaaaa

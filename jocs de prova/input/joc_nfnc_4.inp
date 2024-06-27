@@ -1,0 +1,18 @@
+0
+S -> AB | A
+A -> aA | b
+B -> CD | C
+C -> cC | e
+D -> dD | e
+
+
+ab
+abc
+aaddd
+a
+bcd
+abbb
+ccc
+dddd
+aaabbb
+bb

@@ -1,0 +1,15 @@
+1
+S0 -> a 0.1 | XA 0.3 | AX 0.5 | b 0.1
+A -> RB 1
+B -> AX 0.5 | b 0.3 | a 0.2
+X -> a 1
+R -> XB 1
+
+e
+
+aaba
+aabac
+abba
+aabb
+abab
+bbab
